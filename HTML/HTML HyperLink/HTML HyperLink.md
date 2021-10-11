@@ -22,3 +22,5 @@ Html hyperlink adalah sebuah tag html yang berisi link
 ### Dari demo diatas bisa disimpulkan bahwa tag `<a>` berisi link menuju instagram
 
 ## Kreasikan sendiri atribut ini ya :)
+
+Referensi (https://www.w3schools.com/html/html_links.asp)
